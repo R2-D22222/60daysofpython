@@ -1,4 +1,4 @@
 # 60 de programação em python
 
-- [ ] Dia 1
+- [x] Dia 1 - ola mundo em python
 - [ ] Dia 2
