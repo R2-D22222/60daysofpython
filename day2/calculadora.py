@@ -1,5 +1,5 @@
-nipplepiercing = input("Write the firsh number\n")
-sweetiefox = input("Write the second number\n")
+number1 = input("Write the firsh number\n")
+number2 = input("Write the second number\n")
 
-evaelfie = int(nipplepiercing) + int(sweetiefox) 
-print  ( f"This is the sum of numbers: {evaelfie}")
+sonne = int(number1) + int(number2) 
+print  ( f"This is the sum of numbers: {sonne}")
