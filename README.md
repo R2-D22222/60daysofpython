@@ -6,3 +6,4 @@
 - [x] Dia 4 - laço de repetição
 - [x] Dia 5 - função que imprimi o quadrado de um número
 - [x] Dia 6 - Listas
+- [] Dia 7 - Dicionário
