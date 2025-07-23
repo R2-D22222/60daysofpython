@@ -7,3 +7,4 @@
 - [x] Dia 5 - função que imprimi o quadrado de um número
 - [x] Dia 6 - Listas
 - [x] Dia 7 - Dicionário
+- [x] Dia 8 - checklist
