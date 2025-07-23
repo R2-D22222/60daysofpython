@@ -8,3 +8,4 @@
 - [x] Dia 6 - Listas
 - [x] Dia 7 - Dicionário
 - [x] Dia 8 - checklist
+- [x] Dia 9 - contador
