@@ -11,3 +11,4 @@
 - [x] Dia 9 - contador
 - [x] Dia 10 - gerador de senhas
 - [x] Dia 11 - usando a função sorted para ordenar uma lista de némeros
+- [] Dia 12
