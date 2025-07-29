@@ -12,4 +12,4 @@
 - [x] Dia 10 - gerador de senhas
 - [x] Dia 11 - usando a função sorted para ordenar uma lista de némeros
 - [x] Dia 12 - Busca linear em listas
-- [] Dia 13 - função fatorial
+- [x] Dia 13 - função fatorial
