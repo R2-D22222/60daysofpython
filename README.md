@@ -13,3 +13,5 @@
 - [x] Dia 11 - usando a função sorted para ordenar uma lista de némeros
 - [x] Dia 12 - Busca linear em listas
 - [x] Dia 13 - função fatorial
+- [] Dia 14 -
+- [x] DIa 15 - Sequencia de fibonacci
