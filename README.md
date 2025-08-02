@@ -17,3 +17,4 @@
 - [x] Dia 15 - Sequencia de fibonacci
 - [x] Dia 16 - Anagrama
 - [x] Dia 17 - Palindromos
+- [x] Dia 18 - contabilizador de palavras
