@@ -18,3 +18,4 @@
 - [x] Dia 16 - Anagrama
 - [x] Dia 17 - Palindromos
 - [x] Dia 18 - contabilizador de palavras
+- [x] Dia 19 - calculo de médias 
