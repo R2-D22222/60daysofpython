@@ -1,0 +1,28 @@
+def matran(matriz):
+#  matran = matriz transposta
+    if len(matriz) != 3 or not all(len(linha) == 3 for linha in matriz):
+               raise ValueError("A matriz precisa de tamanaho 3x3")
+     
+    transposta = [[matriz[j][i] for j in range(3)] for i in range(3)]
+    return transposta
+ 
+matriz = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+ ]
+ 
+transposta = []
+ 
+for i in range(3):
+     newline = []
+     
+     for j in range(3):
+         newline.append(matriz[j][i])
+         
+         transposta.append(newline)
+         
+     for linha in matran(matriz):
+          print(linha)
+
+         

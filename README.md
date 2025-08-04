@@ -19,3 +19,4 @@
 - [x] Dia 17 - Palindromos
 - [x] Dia 18 - contabilizador de palavras
 - [x] Dia 19 - calculo de médias 
+- [] Dia 20 - Matriz transporta
