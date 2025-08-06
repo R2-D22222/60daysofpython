@@ -20,4 +20,4 @@
 - [x] Dia 18 - contabilizador de palavras
 - [x] Dia 19 - calculo de médias 
 - [x] Dia 20 - Matriz transporta
-- [] Dia 21 - Conversor de moeda
+- [x] Dia 21 - Conversor de moeda
