@@ -29,6 +29,5 @@
 - [x] Dia 27 - conversor de temperatura
 - [x] Dia 28 - cronômetro
 - [x] Dia 29 - gerador de data atual
-- [] Dia 30 -
-
+- [x] Dia 30 - cronometro de 10seg
 
