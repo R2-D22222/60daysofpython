@@ -28,7 +28,7 @@
 - [x] Dia 26 - gerador e leitor de arquivos .txt
 - [x] Dia 27 - conversor de temperatura
 - [x] Dia 28 - cronômetro
-- [] Dia 29 -
+- [x] Dia 29 - gerador de data atual
 - [] Dia 30 -
 
 
