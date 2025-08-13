@@ -25,8 +25,8 @@
 - [x] Dia 23 - Jogo de adivinhação
 - [x] Dia 24 - Tabuada
 - [x] Dia 25 - gerador de números aleatórios
-- [] Dia 26 - gerador e leitor de arquivos .txt
-- [] Dia 27 -
+- [x] Dia 26 - gerador e leitor de arquivos .txt
+- [x] Dia 27 - conversor de temperatura
 - [] Dia 28 -
 - [] Dia 29 -
 - [] Dia 30 -
