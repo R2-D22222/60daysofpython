@@ -23,3 +23,4 @@
 - [x] Dia 21 - Conversor de moeda
 - [x] Dia 22 - Calculadora de imc
 - [x] Dia 23 - Jogo de adivinhação
+- [x] Dia 24 - Tabuada
