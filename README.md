@@ -27,7 +27,7 @@
 - [x] Dia 25 - gerador de números aleatórios
 - [x] Dia 26 - gerador e leitor de arquivos .txt
 - [x] Dia 27 - conversor de temperatura
-- [] Dia 28 -
+- [x] Dia 28 - cronômetro
 - [] Dia 29 -
 - [] Dia 30 -
 
