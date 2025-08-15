@@ -30,4 +30,5 @@
 - [x] Dia 28 - cronômetro
 - [x] Dia 29 - gerador de data atual
 - [x] Dia 30 - cronometro de 10seg
-
+- [x] Dia 31 - raiz quadrada
+- [x] Dia 32 - Lançador de dados aleatórios
