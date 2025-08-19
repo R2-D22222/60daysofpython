@@ -32,3 +32,7 @@
 - [x] Dia 30 - cronometro de 10seg
 - [x] Dia 31 - raiz quadrada
 - [x] Dia 32 - Lançador de dados aleatórios
+- [x] Dia 33 - Ocorrencias
+- [x] Dia 34 - manipulação de arquivos json
+- [x] Dia 35 - Requests https
+- [x] Dia 36 - Crawler
