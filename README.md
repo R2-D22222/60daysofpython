@@ -37,3 +37,4 @@
 - [x] Dia 35 - Requests https
 - [x] Dia 36 - Crawler
 - [x] Dia 37 - Pandas
+- [x] Dia 38 - OpenAi
