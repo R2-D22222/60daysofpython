@@ -38,3 +38,4 @@
 - [x] Dia 36 - Crawler
 - [x] Dia 37 - Pandas
 - [x] Dia 38 - OpenAi
+- [x] Dia 39 - Gráfico plotext
