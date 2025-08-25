@@ -39,3 +39,6 @@
 - [x] Dia 37 - Pandas
 - [x] Dia 38 - OpenAi
 - [x] Dia 39 - Gráfico plotext
+- [x] Dia 40 - Orientado a objetos
+- [] Dia 41 -
+- [] Dia 42 -
