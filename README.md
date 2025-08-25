@@ -40,5 +40,5 @@
 - [x] Dia 38 - OpenAi
 - [x] Dia 39 - Gráfico plotext
 - [x] Dia 40 - Orientado a objetos
-- [] Dia 41 -
-- [] Dia 42 -
+- [x] Dia 41 - Herança
+- [x] Dia 42 - Módulo os
