@@ -42,4 +42,4 @@
 - [x] Dia 40 - Orientado a objetos
 - [x] Dia 41 - Herança
 - [x] Dia 42 - Módulo os
--[] Dia 43
+- [x] Dia 43 - Análise de erros
