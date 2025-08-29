@@ -45,3 +45,4 @@
 - [x] Dia 43 - Análise de erros
 - [x] Dia 44 - Regex
 - [x] Dia 45 - Multi tarefas
+- [x] Dia 46 - Sockets
