@@ -49,4 +49,4 @@
 - [x] Dia 47 - Medir tempo
 - [x] Dia 48 - Infinita sequencia 
 - [x] Dia 49 - Criação e manipulação de banco de dados SQlite
-- [] Dia 50 -
+- [x] Dia 50 - Automatizando clicks com Python
