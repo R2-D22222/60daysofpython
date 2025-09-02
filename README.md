@@ -47,6 +47,6 @@
 - [x] Dia 45 - Multi tarefas
 - [x] Dia 46 - Sockets
 - [x] Dia 47 - Medir tempo
-- [] Dia 48 - Infinita sequencia 
-- [] Dia 49 -
+- [x] Dia 48 - Infinita sequencia 
+- [x] Dia 49 - Criação e manipulação de banco de dados SQlite
 - [] Dia 50 -
