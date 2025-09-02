@@ -46,3 +46,7 @@
 - [x] Dia 44 - Regex
 - [x] Dia 45 - Multi tarefas
 - [x] Dia 46 - Sockets
+- [x] Dia 47 - Medir tempo
+- [] Dia 48 - 
+- [] Dia 49 -
+- [] Dia 50 -
