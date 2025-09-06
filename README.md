@@ -53,4 +53,4 @@
 - [x] Dia 51 - Resgate de informações de sites com bs4
 - [x] Dia 52 - Criando gráficos com google colab
 - [x] Dia 53 - reconhecimento de imagem com Opencv
-- [] Dia 54 -
+- [x] Dia 54 - Análise de dados com pandas
