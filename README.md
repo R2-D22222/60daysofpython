@@ -51,6 +51,6 @@
 - [x] Dia 49 - Criação e manipulação de banco de dados SQlite
 - [x] Dia 50 - Automatizando clicks com Python
 - [x] Dia 51 - Resgate de informações de sites com bs4
-- [] Dia 52 -
-- [] Dia 53 -
+- [x] Dia 52 - Criando gráficos com google colab
+- [x] Dia 53 - reconhecimento de imagem com Opencv
 - [] Dia 54 -
