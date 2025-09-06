@@ -50,3 +50,7 @@
 - [x] Dia 48 - Infinita sequencia 
 - [x] Dia 49 - Criação e manipulação de banco de dados SQlite
 - [x] Dia 50 - Automatizando clicks com Python
+- [x] Dia 51 - Resgate de informações de sites com bs4
+- [] Dia 52 -
+- [] Dia 53 -
+- [] Dia 54 -
